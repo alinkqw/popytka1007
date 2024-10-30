@@ -1,0 +1,32 @@
+body {
+    background-image: url('fioletovaya-abstrakciya-krasivyj-fon.jpg');
+    background-size: cover; 
+    background-position: center;
+    margin: 0; 
+    height: 100vh; 
+}
+.heart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.bir{
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 20px;
+    text-shadow: 2px 2px 2px black;
+}
+.buttonn {
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 80px;
+margin-top: 40px;
+}
+body{
+    background-color: rgb(208, 255, 255);
+}
